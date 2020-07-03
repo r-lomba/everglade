@@ -5,7 +5,7 @@ Finding NLP resources and datasets for Italian Language can be challenging. In t
 
 - Schema is as follows: <RATING_1_TO_5>|<FULL_REVIEW_ITALIAN_TEXT>
 - The Dataset is unbalanced. This is because random web scraping results in a Review Scores distribution that reflects the real-world Distribution of Customer Review Scores. That is, you'll find more Positive Reviews than Negative Reviews
-- The Dataset will grow with time, but it's a useful resource for NLP even today (> 90000 samples)
+- The Dataset will grow with time, but it's a useful resource for NLP even today (more that 90000 samples already)
 - Dataset is split into 2 parts, "everglade_01.csv" and "everglade_02.csv", because the whole set is quite big. Just download both files from the link above
 - Have fun!
 
